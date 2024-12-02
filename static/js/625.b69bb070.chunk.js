@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_first=self.webpackChunkmy_first||[]).push([[625],{625:function(s,e,n){n.r(e);n(791);var i=n(219),r=n(184);e.default=function(){return(0,r.jsx)("div",{className:"Spline",children:(0,r.jsx)(i.Z,{})})}}}]);
+//# sourceMappingURL=625.b69bb070.chunk.js.map
